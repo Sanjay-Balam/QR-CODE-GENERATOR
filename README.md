@@ -40,4 +40,4 @@ https://github.com/Sanjay-Balam/QR-CODE-GENERATOR.git
 - view/: Directory containing EJS templates.
 - public/: Directory containing static files (CSS).
 - package.json: Project metadata and dependencies.
-- 
+
