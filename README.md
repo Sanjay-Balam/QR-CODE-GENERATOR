@@ -1,8 +1,14 @@
 # END TO END QR CODE GENERATOR
+This is a simple Node.js application that generates a QR code for a given URL.
+## Features
+- Generate a QR code for any URL.
+- Simple form to input URL.
+- Displays the generated QR code.
+
 ## Technologies used 
 - NodeJs
 - Express
-- ejs
+- EJS
 
 ## Getting Started
 ### Prerequisites
